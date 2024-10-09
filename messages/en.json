@@ -1,0 +1,22 @@
+{
+
+    "HomePage": {
+
+        "home": "Home",
+        "catalog": "Catalog",
+        "sales": "Sales",
+        "clients": "Clients",
+        "shopping": "Shopping",
+        "contentManagement": "Content Management",
+        "discount": "Discount",
+        "stores": "Stores",
+        "prices": "Prices",
+        "principles": "Principles",
+        "ratingAndComments": "Rating and Comments",
+        "basicPaymentMethods": "Basic Payment Methods",
+        "returns": "Returns",
+        "toggleLanguage": "العربية"
+
+
+    }
+}

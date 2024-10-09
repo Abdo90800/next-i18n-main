@@ -1,0 +1,21 @@
+{
+
+    "HomePage": {
+        "home": "الصفحة الرئيسية",
+        "catalog": "الكتالوج",
+        "sales": "المبيعات",
+        "clients": "العملاء",
+        "shopping": "التسوق",
+        "contentManagement": "إدارة المحتوى",
+        "discount": "الخصومات",
+        "stores": "المتاجر",
+        "prices": "الأسعار",
+        "principles": "المبادئ",
+        "ratingAndComments": "التقييمات والتعليقات",
+        "basicPaymentMethods": "طرق الدفع الأساسية",
+        "returns": "المرتجعات",
+        "toggleLanguage": "English"
+
+
+    }
+}
