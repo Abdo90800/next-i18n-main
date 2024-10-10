@@ -32,6 +32,7 @@ export default function LocalSwitcher() {
       >
         <option value='en'>English</option>
         <option value='ar'>العربية</option>
+        
       </select>
     </label>
   );
